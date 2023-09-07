@@ -1,0 +1,26 @@
+ Reading PMF.dat: cn dimensionless, W in kcal/mol
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  Barrier | location and value  
+    1.460625    8.364621
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ Forward TST rate and time (1/ps and ps)
+    0.000194  5166.267403
+ Forward: kappa-corrected rate and time (1/ps and ps)
+    0.000076 13112.353816
+ Forward: kappa-corrected rate (per s)
+   76263957.635912001     
+ Forward: Mass weighted Reactant volume
+    0.002624
+ Forward: Reactant volume
+    0.030268
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ Backward TST rate and time (1/ps and ps)
+    0.000853  1172.481840
+ Backward: kappa-corrected rate and time (1/ps and ps)
+    0.000336  2975.842235
+ Backward: kappa-corrected rate (per s)
+   336039318.29626268     
+ Backward: Mass-weighted reactant vol(nm(g/mol)^(1/2))
+    0.000596
+ Backward: Reactant volume
+    0.006869

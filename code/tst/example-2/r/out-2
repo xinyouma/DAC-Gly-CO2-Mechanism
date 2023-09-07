@@ -1,0 +1,24 @@
+ Reading PMF.dat: r in nm, W in kcal/mol
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  Barrier | location and value  
+    0.220972    7.361550
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ Forward: TST rate and time (ps)
+    0.060630   16.493387
+ Forward: kappa corrected TST rate and time (ps)
+    0.005214  191.783573
+ Forward: kappa-corrected TST rate (per s)
+   5214210907.1522350     
+ Reduced mass, reactant V, mass weighted reactant V
+ (g/mol), (nm^3), sqrt(g/mol)*(nm^3)
+    6.466000    0.000001    0.000002
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ Backward: TST rate and time (ns)
+    0.004844  206.458154
+ Backward: kappa corrected TST rate and time (ns)
+    0.000417 2400.676207
+ Forward: kappa-corrected TST rate (per s)
+   416549.30275227688     
+ Reduced mass, reactant V, mass weighted reactant V
+ (g/mol), (nm^3), sqrt(g/mol)*(nm^3)
+    6.466000    0.010832    0.027544

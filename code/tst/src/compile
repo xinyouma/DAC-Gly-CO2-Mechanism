@@ -1,0 +1,2 @@
+gfortran tst-r.f90 -o ../bin/tst-r
+gfortran tst-cn.f90 -o ../bin/tst-cn
